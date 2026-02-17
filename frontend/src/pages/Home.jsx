@@ -7,7 +7,7 @@ import Projects from "./Projects";
 import Cirtificate from "./Cirtificate";
 import Technologi from "./Technologi";
 import Contact from "./Contact";
-import Footer from "./Footer";
+// import Footer from "./Footer";
 
 const Home = () => {
   return (
@@ -41,7 +41,7 @@ const Home = () => {
         <Contact />
       </section>
 
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 };
